@@ -9,10 +9,8 @@ What these function do?
 (i) chart() function will need an argument. The argument is the file pointer of your text file.
 	Your text file must maintain a format.
 	Obs.No.			Actual Temperature			Measured Voltage
-	
 	Without this format your text file will be of no use. Be careful about the units you delivered in that text file.
-	As it's a void function nothing will be returned and we tried to make this function user friendly. So run the the function and
-	see the magic!!
+	As it's a void function nothing will be returned and we tried to make this function user friendly. So run the the function      and see the magic!!
 	
 (ii) corr_fact() function basically returns you a float number. The correction factor of the thermocouple at that room temperature.
 	 Be sure which type or temperature you are providing!
